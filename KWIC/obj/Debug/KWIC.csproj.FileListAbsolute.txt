@@ -1,0 +1,13 @@
+c:\users\lab\documents\visual studio 2013\Projects\KWIC\KWIC\bin\Debug\KWIC.exe.config
+c:\users\lab\documents\visual studio 2013\Projects\KWIC\KWIC\bin\Debug\KWIC.exe
+c:\users\lab\documents\visual studio 2013\Projects\KWIC\KWIC\bin\Debug\KWIC.pdb
+c:\users\lab\documents\visual studio 2013\Projects\KWIC\KWIC\obj\Debug\KWIC.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2013\Projects\KWIC\KWIC\obj\Debug\KWIC.exe
+c:\users\lab\documents\visual studio 2013\Projects\KWIC\KWIC\obj\Debug\KWIC.pdb
+D:\VS2019\C#Project\KWIC\KWIC\bin\Debug\KWIC.exe.config
+D:\VS2019\C#Project\KWIC\KWIC\bin\Debug\KWIC.exe
+D:\VS2019\C#Project\KWIC\KWIC\bin\Debug\KWIC.pdb
+D:\VS2019\C#Project\KWIC\KWIC\obj\Debug\KWIC.csprojAssemblyReference.cache
+D:\VS2019\C#Project\KWIC\KWIC\obj\Debug\KWIC.csproj.CoreCompileInputs.cache
+D:\VS2019\C#Project\KWIC\KWIC\obj\Debug\KWIC.exe
+D:\VS2019\C#Project\KWIC\KWIC\obj\Debug\KWIC.pdb
